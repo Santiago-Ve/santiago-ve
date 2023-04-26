@@ -18,7 +18,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/santiago-inciarte-vera-7b98ab264/
+[linkedin]: https://www.linkedin.com/in/santiago-a-vera/
 
 
 
